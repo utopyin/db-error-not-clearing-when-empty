@@ -3,15 +3,15 @@
 **Issue**: the error is not being cleared properly when a collection returns an empty list
 
 ### Install the reproduction
-- Clone the repo
+1. Clone the repo
 ```
 git clone https://github.com/utopyin/db-error-not-clearing-when-empty
 ```
-- Install
+2. Install
 ```
 pnpm install
 ```
-- Start the app
+3. Start the app
 ```
 pnpm run dev
 ```
