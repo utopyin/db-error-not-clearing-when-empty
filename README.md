@@ -1,4 +1,4 @@
-# Minimal reproduction for Tanstack DB
+# Minimal reproduction
 
 **Issue**: the error is not being cleared properly when a collection returns an empty list
 
